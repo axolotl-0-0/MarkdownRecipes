@@ -51,4 +51,4 @@ labels:
 
 ## Pictures
 
-![image](images/no-cook-pasta.jpeg =x250)
+![image](images/no-cook-pasta.jpeg){width=300}
