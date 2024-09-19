@@ -38,7 +38,7 @@ labels:
 4. Add salt & spices (red pepper flaskes, little bit of cayenne, oregano, etc.) & mix
 5. Add red sauce (garlix sauce / tomato sauce + tomato paste)
 6. Add lentils
-7. Set to Instant Pot to Pressure Cook > High Pressure, for 15 mins
+7. Set to Instant Pot to Pressure Cook > High Pressure, for 20 mins
 8. Boil Pasta 
 
 ## Notes
