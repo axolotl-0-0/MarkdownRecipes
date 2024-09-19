@@ -15,7 +15,7 @@ labels:
 
 
 
-# No-Cook Pasta
+# Bolognese with Lentils
 
 - Serves: 4
 - Prep Time: 5 minutes
